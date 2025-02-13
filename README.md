@@ -76,6 +76,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nelaa7/nelaa7/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/nelaa7/nelaa7/output/snake.svg" alt="Snake animation" /> -->
+
+
 
 ###
